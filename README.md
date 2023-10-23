@@ -1,1 +1,4 @@
-# university-site
+# سایت دانشگاهی
+در این پروژه قالب html یک سایت دانشگاهی خارجی ابتدا ترجمه و سپس راست چین شد به یک قالب html فارسی تبدیل شد. سپس با استفاده از wordpress  قالب از حالت static به dynamic با استفاده از پنل مدیریت wordpress  ارتقا پیدا کرد.از ویژگی های این سایت میتوان به موارد زیر اشاره کرد:
+1-Live Search
+2-create and manage related post type
